@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "toolbooth": {
+      "url": "https://toolbooth.io/mcp",
+      "headers": {
+        "Authorization": "Bearer ${env:TOOLBOOTH_API_KEY}"
+      }
+    }
+  }
+}

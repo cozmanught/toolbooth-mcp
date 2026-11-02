@@ -1,0 +1,17 @@
+{
+  "name": "toolbooth",
+  "description": "Toolbooth for Claude Code: the hosted Toolbooth MCP server (pay-per-call crypto, DeFi, prediction-market and web tools) plus a skill on which tool to use and what it costs.",
+  "owner": {
+    "name": "Toolbooth",
+    "url": "https://toolbooth.io"
+  },
+  "plugins": [
+    {
+      "name": "toolbooth",
+      "source": "./plugins/toolbooth",
+      "description": "Connects Claude Code to https://toolbooth.io/mcp and adds a skill for choosing and chaining Toolbooth's pay-per-call tools.",
+      "category": "data",
+      "tags": ["mcp", "x402", "solana", "crypto", "defi", "prediction-markets", "web-search"]
+    }
+  ]
+}

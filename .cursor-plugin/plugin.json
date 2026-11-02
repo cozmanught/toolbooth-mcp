@@ -1,0 +1,12 @@
+{
+  "name": "toolbooth",
+  "displayName": "Toolbooth",
+  "version": "1.0.0",
+  "description": "Pay-per-call MCP tools for AI agents: Solana, DEX, perps, prediction markets, DeFi, web search and dev security. USDC via x402 or prepaid credit.",
+  "author": {
+    "name": "Toolbooth"
+  },
+  "license": "MIT",
+  "keywords": ["mcp", "x402", "solana", "crypto", "defi", "prediction-markets", "web-search", "agents"],
+  "logo": "assets/logo.png"
+}

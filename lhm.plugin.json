@@ -1,0 +1,12 @@
+{
+  "identifier": "toolbooth",
+  "name": "Toolbooth",
+  "version": "1.0.0",
+  "author": "Toolbooth",
+  "authorUrl": "https://toolbooth.io",
+  "homepage": "https://toolbooth.io",
+  "cloudEndpoint": "https://toolbooth.io/mcp",
+  "icon": "https://toolbooth.io/assets/images/toolbooth-logo.png",
+  "description": "Pay-per-call MCP tools for AI agents: Solana and DEX data, perps, prediction markets, DeFi yields, web search and scraping, and dev security checks. Each call is paid in USDC on Solana via x402, or from prepaid Agent Kiosk credit. Failed calls are not charged.",
+  "tags": ["x402", "solana", "crypto", "defi", "prediction-markets", "web-search", "pay-per-call", "remote"]
+}
